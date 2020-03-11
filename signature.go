@@ -1,7 +1,7 @@
 package bls
 
 import (
-	"bls/bn256"
+	"github.com/SickleZhang/bls/bn256"
 )
 
 type Signature struct {
